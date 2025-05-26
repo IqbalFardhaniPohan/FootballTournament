@@ -51,7 +51,7 @@
     "nama": "Copa Libertadores",
     "negara": "Amerika Selatan",
     "didirikan": 1960,
-    "jumlah_tim": 47 (total, termasuk kualifikasi),
+    "jumlah_tim": 47,
     "juara_bertahan": "Fluminense",
     "foto": "https://upload.wikimedia.org/wikipedia/en/8/89/Copa_Libertadores_logo.svg"
   },
@@ -59,7 +59,7 @@
     "nama": "FIFA World Cup",
     "negara": "Internasional",
     "didirikan": 1930,
-    "jumlah_tim": 32 (akan menjadi 48 mulai 2026),
+    "jumlah_tim": 32,
     "juara_bertahan": "Argentina",
     "foto": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/FIFA_World_Cup_2022_Logo.svg/1200px-FIFA_World_Cup_2022_Logo.svg.png"
   },
@@ -75,7 +75,7 @@
     "nama": "CONCACAF Champions Cup",
     "negara": "Amerika Utara, Tengah & Karibia",
     "didirikan": 1962,
-    "jumlah_tim": 27 (format 2024),
+    "jumlah_tim": 27,
     "juara_bertahan": "Club León",
     "foto": "https://upload.wikimedia.org/wikipedia/en/e/e0/CONCACAF_Champions_Cup_logo_2023.svg"
   }
