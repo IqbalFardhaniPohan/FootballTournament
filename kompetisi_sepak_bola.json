@@ -13,7 +13,7 @@
     "didirikan": 1992,
     "jumlah_tim": 20,
     "juara_bertahan": "Manchester City",
-    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aV6RB1_W7QbEOXYj7D2HHlXmdgB7_nMjXA&s"
+    "foto": "https://cdn.vanguardngr.com/wp-content/uploads/2021/08/premier-league.jpg"
   },
   {
     "nama": "La Liga",
@@ -21,7 +21,7 @@
     "didirikan": 1929,
     "jumlah_tim": 20,
     "juara_bertahan": "Real Madrid",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/1/13/LaLiga.svg"
+    "foto": "https://gerakita.com/wp-content/uploads/2020/04/LA-Liga-scaled.jpg"
   },
   {
     "nama": "Serie A",
@@ -29,7 +29,7 @@
     "didirikan": 1898,
     "jumlah_tim": 20,
     "juara_bertahan": "Inter Milan",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/e/ef/Serie_A_logo_%282019%29.svg"
+    "foto": "https://cdns.klimg.com/bola.net/library/upload/21/2023/06/serie-a-liga-italia_d525b32.jpg"
   },
   {
     "nama": "Bundesliga",
@@ -37,7 +37,7 @@
     "didirikan": 1963,
     "jumlah_tim": 18,
     "juara_bertahan": "Bayer Leverkusen",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg"
+    "foto": "https://gerakita.com/wp-content/uploads/2020/04/bundesliga-.jpg"
   },
   {
     "nama": "Ligue 1",
@@ -45,7 +45,7 @@
     "didirikan": 1932,
     "jumlah_tim": 18,
     "juara_bertahan": "Paris Saint-Germain",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/b/ba/Ligue_1_Uber_Eats_logo.svg"
+    "foto": "https://mmc.tirto.id/image/otf/640x0/2019/06/26/ligue-1-prancis-wikipedia_ratio-16x9.jpg"
   },
   {
     "nama": "Copa Libertadores",
@@ -53,7 +53,7 @@
     "didirikan": 1960,
     "jumlah_tim": 47,
     "juara_bertahan": "Fluminense",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/8/89/Copa_Libertadores_logo.svg"
+    "foto": "https://asset.indosport.com/article/image/q/80/330120/logo_copa_libertadores_dan_trofi_copa_libertadores-169.jpg?w=750&h=423"
   },
   {
     "nama": "FIFA World Cup",
@@ -61,7 +61,7 @@
     "didirikan": 1930,
     "jumlah_tim": 32,
     "juara_bertahan": "Argentina",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/FIFA_World_Cup_2022_Logo.svg/1200px-FIFA_World_Cup_2022_Logo.svg.png"
+    "foto": "https://assets-e.promediateknologi.id/photo/p1/300/2024/06/14/FIFA-World-Cup-2026-2-3697990286.jpg"
   },
   {
     "nama": "UEFA European Championship (Euro)",
@@ -69,7 +69,7 @@
     "didirikan": 1960,
     "jumlah_tim": 24,
     "juara_bertahan": "Italia",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/e/e3/UEFA_Euro_2020_logo.svg"
+    "foto": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/71/2024/06/03/library_upload_21_2023_03_996x664_euro-2024-l-2_559d48b-77702654.jpg"
   },
   {
     "nama": "CONCACAF Champions Cup",
@@ -77,6 +77,6 @@
     "didirikan": 1962,
     "jumlah_tim": 27,
     "juara_bertahan": "Club León",
-    "foto": "https://upload.wikimedia.org/wikipedia/en/e/e0/CONCACAF_Champions_Cup_logo_2023.svg"
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQciinRw-SLFNIev40RlH419VcptrjjbkDwtw&s"
   }
 ]
