@@ -1,0 +1,82 @@
+[
+  {
+    "nama": "UEFA Champions League",
+    "negara": "Eropa (Internasional)",
+    "didirikan": 1955,
+    "jumlah_tim": 32,
+    "juara_bertahan": "Real Madrid",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg"
+  },
+  {
+    "nama": "English Premier League",
+    "negara": "Inggris",
+    "didirikan": 1992,
+    "jumlah_tim": 20,
+    "juara_bertahan": "Manchester City",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
+  },
+  {
+    "nama": "La Liga",
+    "negara": "Spanyol",
+    "didirikan": 1929,
+    "jumlah_tim": 20,
+    "juara_bertahan": "Real Madrid",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/1/13/LaLiga.svg"
+  },
+  {
+    "nama": "Serie A",
+    "negara": "Italia",
+    "didirikan": 1898,
+    "jumlah_tim": 20,
+    "juara_bertahan": "Inter Milan",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/e/ef/Serie_A_logo_%282019%29.svg"
+  },
+  {
+    "nama": "Bundesliga",
+    "negara": "Jerman",
+    "didirikan": 1963,
+    "jumlah_tim": 18,
+    "juara_bertahan": "Bayer Leverkusen",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg"
+  },
+  {
+    "nama": "Ligue 1",
+    "negara": "Prancis",
+    "didirikan": 1932,
+    "jumlah_tim": 18,
+    "juara_bertahan": "Paris Saint-Germain",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/b/ba/Ligue_1_Uber_Eats_logo.svg"
+  },
+  {
+    "nama": "Copa Libertadores",
+    "negara": "Amerika Selatan",
+    "didirikan": 1960,
+    "jumlah_tim": 47 (total, termasuk kualifikasi),
+    "juara_bertahan": "Fluminense",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/8/89/Copa_Libertadores_logo.svg"
+  },
+  {
+    "nama": "FIFA World Cup",
+    "negara": "Internasional",
+    "didirikan": 1930,
+    "jumlah_tim": 32 (akan menjadi 48 mulai 2026),
+    "juara_bertahan": "Argentina",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/FIFA_World_Cup_2022_Logo.svg/1200px-FIFA_World_Cup_2022_Logo.svg.png"
+  },
+  {
+    "nama": "UEFA European Championship (Euro)",
+    "negara": "Eropa",
+    "didirikan": 1960,
+    "jumlah_tim": 24,
+    "juara_bertahan": "Italia",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/e/e3/UEFA_Euro_2020_logo.svg"
+  },
+  {
+    "nama": "CONCACAF Champions Cup",
+    "negara": "Amerika Utara, Tengah & Karibia",
+    "didirikan": 1962,
+    "jumlah_tim": 27 (format 2024),
+    "juara_bertahan": "Club León",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/e/e0/CONCACAF_Champions_Cup_logo_2023.svg"
+  }
+]
